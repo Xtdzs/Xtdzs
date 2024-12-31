@@ -1,5 +1,5 @@
 ### WHO AM I❔
-I am a sophomore majored in computer science and technology.
+I am a junior majored in computer science and technology.
 ### MY MAJOR❔
 I am a fanatics in AI especially speech area and desire to make progress in this field.
 ### SOME OF MY THOUGHTS
