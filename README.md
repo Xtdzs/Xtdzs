@@ -20,7 +20,7 @@
 
 <div style="display: flex; align-items: flex-start;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtdzs&show_icons=true&locale=en&layout=compact" alt="xtdzs" height="150" width="250"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtdzs&show_icons=true&locale=en" alt="xtdzs" height="150" width="300"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtdzs&" alt="xtdzs" height="150" width="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtdzs&show_icons=true&locale=en" alt="xtdzs" height="150" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtdzs&" alt="xtdzs" height="150" />
 </div>
 
