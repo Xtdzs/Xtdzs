@@ -12,11 +12,20 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xtdzs&show_icons=true&locale=en" alt="xtdzs" /></p>
+<!-- 设置前三个图表高度一致 -->
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=xtdzs&show_icons=true&locale=en" alt="xtdzs" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xtdzs&show_icons=true&locale=en&layout=compact" alt="xtdzs" height="200"/>
+</div>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtdzs&show_icons=true&locale=en&layout=compact" alt="xtdzs" /></p>
+<!-- 第三个图单独一行靠左 -->
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtdzs&" alt="xtdzs" height="200"/>
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xtdzs&" alt="xtdzs" /></p> <br>
+<!-- 最后一项居中显示 -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xtdzs&label=Profile%20views&color=0e75b6&style=flat" alt="xtdzs" />
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xtdzs&label=Profile%20views&color=0e75b6&style=flat" alt="xtdzs" /> </p>
 
