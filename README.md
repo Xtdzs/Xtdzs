@@ -12,11 +12,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtdzs&show_icons=true&locale=en" alt="xtdzs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xtdzs&show_icons=true&locale=en" alt="xtdzs" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtdzs&show_icons=true&locale=en&layout=compact" alt="xtdzs" /></p>
-
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtdzs&show_icons=true&locale=en&layout=compact" alt="xtdzs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtdzs&" alt="xtdzs" /></p>
 
