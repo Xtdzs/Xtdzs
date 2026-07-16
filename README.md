@@ -6,14 +6,3 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Xtdzs](https://github.com/Xtdzs)
 
 - 📫 How to reach me **gaojinliang666@gmail.com**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtdzs" alt="xtdzs" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<div style="display: flex; align-items: flex-start;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtdzs&show_icons=true&locale=en&layout=compact" alt="xtdzs" height="150" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xtdzs&show_icons=true&locale=en" alt="xtdzs" height="150" />
-</div>
-
